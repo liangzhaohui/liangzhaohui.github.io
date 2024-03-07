@@ -38,7 +38,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and H
 
 **Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
@@ -49,7 +49,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and H
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💻 Internships
-- *2023.06 - Now*, City University of Hong Kong, [Prof.Can Liu & Pro](https://sweb.cityu.edu.hk/canliu/index.html) and University of California, Berkeley, [Kosa Goucher-Lambert](https://me.berkeley.edu/people/kosa-goucher-lambert/).
+- *2023.06 - Now*, City University of Hong Kong, [Prof.Can Liu](https://sweb.cityu.edu.hk/canliu/index.html) and University of California, Berkeley, [Prof.Kosa Goucher-Lambert](https://me.berkeley.edu/people/kosa-goucher-lambert/).
 - *2021.06 - 2021.08*, Zhejiang University, [Prof.Yingcai Wu](https://zjuidg.org/), China.
 - *2020.10 - 2021.04*, Sichuan University, [Prof.Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm), China.
   
