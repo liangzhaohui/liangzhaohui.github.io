@@ -37,23 +37,28 @@ My research interests are centered around Human-Computer Interaction (HCI) and H
 **Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang, Guihua Shan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.06 - Now*, City University of Hong Kong, [Prof.Can Liu & Pro](https://sweb.cityu.edu.hk/canliu/index.html) and University of California, Berkeley, [Kosa Goucher-Lambert](https://me.berkeley.edu/people/kosa-goucher-lambert/).
+- *2021.06 - 2021.08*, Zhejiang University, [Prof.Yingcai Wu](https://zjuidg.org/), China.
+- *2020.10 - 2021.04*, Sichuan University, [Prof.Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm), China.
+  
+# 🎖 Honors and Awards
+- *2023.06* Excellent Student of University of Chinese Academy of Sciences, top 10%. 
+- *2022.06* Outstanding Graduate of Sichuan University, top 5%.
+- *2021.04* Honorable Mention in “American College Mathematical Modeling Competition (MCM/ICM)
+- *2020.10* Yu Zhang Excellence Scholarship, top 5%
+
+# 📖 Educations
+- *2022.09 - 2025.06*, University of Chinese Academy of Sciences. Computer Science College, also in Advanced Interactive Technology Laboratory, Computer Network Information Center, CAS.  
+- *2018.09 - 2022.06*, Sichuan University, Computer Science College, Yuzhang Wu Honors College, excellent undergraduate. 
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
