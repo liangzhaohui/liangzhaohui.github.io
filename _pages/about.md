@@ -29,7 +29,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and H
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PVIS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PVIS 2024</div><img src='images/sampleviz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SampleViz: Concept-based Sampling for Policy Refinement in Deep Reinforcement Learning]<!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
