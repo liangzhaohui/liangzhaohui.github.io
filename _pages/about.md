@@ -61,7 +61,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and H
 
 # 📖 Educations
 - *2022.09 - 2025.06*, University of Chinese Academy of Sciences. Computer Science College, also in Advanced Interactive Technology Laboratory, Computer Network Information Center, CAS.  
-- *2018.09 - 2022.06*, Sichuan University, Computer Science College, Yuzhang Wu Honors College, excellent undergraduate. 
+- *2018.09 - 2022.06*, Sichuan University, Computer Science College & Yuzhang Wu Honors College, with honors, excellent undergraduate. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
