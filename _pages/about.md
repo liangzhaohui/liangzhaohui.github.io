@@ -29,18 +29,23 @@ My research interests are centered around Human-Computer Interaction (HCI) and H
 
 # 📝 Publications 
 
+- [StoryDiffusion: How Designers Co-Create Storyboards With a Generative-AI System](),  **Zhaohui Liang**, Xiaoyu Zhang, Kevin Ma, Zhao Liu, Xipei Ren, Kosa Goucher-Lambert, Can Liu*, **under review for ACM DIS 2024**.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PVIS 2024</div><img src='images/sampleviz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SampleViz: Concept-based Sampling for Policy Refinement in Deep Reinforcement Learning]<!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
-**Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang, Guihua Shan
+**Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
+- [Survey of Visualization Methods on Academic Citation Information](https://www.jsjkx.com/EN/Y2022/V49/I4/88),  **Zhaohui Liang**, Min Zhu*, Lin Yao, Xiangkun Wang and Mengqi cao, **Computer Sciences**, in Chiinese.
+- 
+- [A Survey of Visualization Approaches for Comparative Genomics](https://www.sciengine.com/JCADC/doi/10.3724/SP.J.1089.2022.19435;JSESSIONID=5b43d5a7-2692-45c3-b699-afeb911f894f), Lin Yao, Min Zhu*, Wang Xiangkun, Zhang Mingyang, Wang Xinyi and  **Zhaohui Liang**, **Journal of Computer-Aided Design \& Computer Graphics**, in Chiinese.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💻 Internships
