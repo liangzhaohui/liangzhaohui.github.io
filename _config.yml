@@ -25,10 +25,11 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing, China"
+  resume           : "files/Resume_Zhaohui.pdf"
   employer         :
   pubmed           : 
   googlescholar    :  #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhliang@cnic.cn"
+  email            : "liangzhaohui22@mails.ucas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/liangzhaohui"
   google_plus      :
   keybase          :
   instagram        :
