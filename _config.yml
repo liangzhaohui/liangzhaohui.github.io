@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing, China"
-  resume           : "files/Resume_Zhaohui.pdf"
+  # resume           : "files/Resume_Zhaohui.pdf"
   employer         :
   pubmed           : 
   googlescholar    :  #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"

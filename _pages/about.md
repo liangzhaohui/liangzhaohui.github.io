@@ -20,6 +20,9 @@ redirect_from:
 I am Zhaohui Liang, a student interested in Human-Computer Interaction and Visualization. I am currently a second-year master's student in Computer Science at the University of the Chinese Academy of Sciences. I graduated with honors from Sichuan University in 2022.
 
 My research interests are centered around Human-Computer Interaction (HCI) and Visualization, with a particular focus on the development and evaluation of interaction methodologies for generative AI supported creativity and information visualization techniques.
+
+[Download my resume](/files/Resume_Zhaohui.pdf)
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
