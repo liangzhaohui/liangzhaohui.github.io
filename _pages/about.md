@@ -39,7 +39,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 
 [SampleViz: Concept-based Sampling for Policy Refinement in Deep Reinforcement Learning](/files/SampleViz.pdf)<!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
-**Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan (Vis-meet-AI@IEEE PacificVis 2024)
+**Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan (Vis-meet-AI at IEEE PacificVis 2024)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
