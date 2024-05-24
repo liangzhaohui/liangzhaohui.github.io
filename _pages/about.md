@@ -32,7 +32,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 
 # 📝 Publications 
 
-- [StoryDiffusion: How Designers Co-Create Storyboards With a Generative-AI System](),  **Zhaohui Liang**†, Xiaoyu Zhang†, Kevin Ma, Zhao Liu, Xipei Ren, Kosa Goucher-Lambert, Can Liu*, **under review**.
+- StoryDiffusion: How Designers Co-Create Storyboards With a Generative-AI System,  **Zhaohui Liang**†, Xiaoyu Zhang†, Kevin Ma, Zhao Liu, Xipei Ren, Kosa Goucher-Lambert, Can Liu*, **under review**.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PacificVis 2024</div><img src='images/sampleviz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
