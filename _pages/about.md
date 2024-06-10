@@ -21,7 +21,7 @@ I am Zhaohui Liang, a student interested in Human-Computer Interaction and Visua
 
 My research interests are centered around Human-Computer Interaction (HCI) and Visualization, with a particular focus on the development and evaluation of interaction methodologies for generative AI supported creativity and information visualization techniques.
 
-<img src='images/sampleviz.png' alt="sym" width="100%">
+<img src='images/research.jpg' alt="sym" width="100%">
 
 [Download my resume.](/files/Resume_Zhaohui.pdf)
 
