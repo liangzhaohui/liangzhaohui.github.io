@@ -33,12 +33,14 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 # 📝 Publications 
 
 - StoryDiffusion: How Designers Co-Create Storyboards With a Generative-AI System,
+
 **Zhaohui Liang**†, Xiaoyu Zhang†, Kevin Ma, Zhao Liu, Xipei Ren, Kosa Goucher-Lambert, Can Liu*, **under review**.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PacificVis 2024</div><img src='images/sampleviz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SampleViz: Concept based Sampling for Policy Refinement in Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10541631), 
+
 **Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan, 2024 IEEE 17th Pacific Visualization Conference (PacificVis), Tokyo, Japan, 2024, pp. 359-368.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
