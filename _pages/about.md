@@ -21,16 +21,12 @@ I am Zhaohui Liang, a student interested in Human-Computer Interaction and Visua
 
 My research interests are centered around Human-Computer Interaction (HCI) and Visualization, with a particular focus on the development and evaluation of interaction methodologies for generative AI supported creativity and information visualization techniques.
 
-<img src='images/research.jpg' alt="Research Illustration" width="100%">
+<img src='images/research.jpg' alt="Research Illustration" width="60%">
 
 [Download my resume.](/files/Resume_Zhaohui.pdf)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-
-# 🔥 News
-- *2024.03*: &nbsp;🎉🎉 I am thrilled to announce that my paper, titled "SampleViz: Concept-based Sampling for Policy Refinement in Deep Reinforcement Learning," has been accepted for presentation at IEEE Pacific Visualization Symposium (PacificVis) 2024. I eagerly look forward to sharing our findings and insights with fellow researchers and attendees in Tokyo. See you there!
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -69,6 +65,11 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 # 📖 Educations
 - *2022.09 - 2025.06*, University of Chinese Academy of Sciences. Computer Science College.  
 - *2018.09 - 2022.06*, Sichuan University, Computer Science College & Yuzhang Wu Honors College, with honors, excellent undergraduate. 
+
+# 🔥 News
+- *2024.03*: &nbsp;🎉🎉 I am thrilled to announce that my paper, titled "SampleViz: Concept-based Sampling for Policy Refinement in Deep Reinforcement Learning," has been accepted for presentation at IEEE Pacific Visualization Symposium (PacificVis) 2024. I eagerly look forward to sharing our findings and insights with fellow researchers and attendees in Tokyo. See you there!
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
