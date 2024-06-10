@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 research.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="17.9627in" height="2.1323in"
+		viewBox="0 0 1293.31 153.526" xml:space="preserve" color-interpolation-filters="sRGB" class="st19">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#c7c8c8;stroke-width:2}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st3 {fill:none;stroke:#000000;stroke-dasharray:0.01,3.75;stroke-width:0.75}
+		.st4 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.34246575342466}
+		.st5 {marker-end:url(#mrkr2-23);stroke:#4672c4;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st6 {fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:0.58139534883721}
+		.st7 {marker-end:url(#mrkr2-34);stroke:#ffc000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st8 {fill:#ffc000;fill-opacity:1;stroke:#ffc000;stroke-opacity:1;stroke-width:0.58139534883721}
+		.st9 {marker-end:url(#mrkr2-45);stroke:#92d050;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st10 {fill:#92d050;fill-opacity:1;stroke:#92d050;stroke-opacity:1;stroke-width:0.58139534883721}
+		.st11 {fill:#ffc000;stroke:none;stroke-width:0.25}
+		.st12 {fill:#92d050;stroke:none;stroke-width:0.25}
+		.st13 {fill:#0070c0;stroke:none;stroke-width:0.25}
+		.st14 {fill:none;stroke:none;stroke-width:0.25}
+		.st15 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-style:italic}
+		.st16 {font-size:1em;font-style:normal}
+		.st17 {font-size:1em;font-style:normal;text-decoration:underline}
+		.st18 {font-size:1em}
+		.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend2">
+			<path d="M 1 1 L 0 0 L 1 -1 L 1 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr2-16" class="st4" v:arrowType="2" v:arrowSize="0" v:setback="2.92" refX="-2.92" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-2.92,-2.92) "/>
+		</marker>
+		<marker id="mrkr2-23" class="st6" v:arrowType="2" v:arrowSize="0" v:setback="1.72" refX="-1.72" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-1.72,-1.72) "/>
+		</marker>
+		<marker id="mrkr2-34" class="st8" v:arrowType="2" v:arrowSize="0" v:setback="1.72" refX="-1.72" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-1.72,-1.72) "/>
+		</marker>
+		<marker id="mrkr2-45" class="st10" v:arrowType="2" v:arrowSize="0" v:setback="1.72" refX="-1.72" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-1.72,-1.72) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(20,-95.6403)">
+			<title>矩形.1023</title>
+			<desc>Text</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54.0732" cy="136.07" width="108.15" height="34.9109"/>
+			<rect x="0" y="118.615" width="108.146" height="34.9109" class="st1"/>
+			<text x="45.31" y="139.07" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Text</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(452.585,-95.6403)">
+			<title>矩形.1024</title>
+			<desc>Image</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54.0732" cy="136.07" width="108.15" height="34.9109"/>
+			<rect x="0" y="118.615" width="108.146" height="34.9109" class="st1"/>
+			<text x="41.58" y="139.07" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Image</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(20,-20)">
+			<title>矩形.1025</title>
+			<desc>Audio</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54.0732" cy="136.07" width="108.15" height="34.9109"/>
+			<rect x="0" y="118.615" width="108.146" height="34.9109" class="st1"/>
+			<text x="42.14" y="139.07" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Audio</text>		</g>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(452.585,-20)">
+			<title>矩形.1026</title>
+			<desc>Parameter and Feature</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54.0732" cy="136.07" width="108.15" height="34.9109"/>
+			<rect x="0" y="118.615" width="108.146" height="34.9109" class="st1"/>
+			<text x="6.95" y="139.07" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Parameter and Feature</text>		</g>
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(236.293,-52.5835)">
+			<title>矩形.1030</title>
+			<desc>AI</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54.0732" cy="136.07" width="108.15" height="34.9109"/>
+			<path d="M0 153.53 L108.15 153.53 L108.15 118.61 L0 118.61 L0 153.53 Z" class="st3"/>
+			<text x="49.92" y="139.07" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>AI</text>		</g>
+		<g id="shape6-18" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(74.0732,-54.9109)">
+			<title>动态连接线.1031</title>
+			<path d="M0 153.53 L158.79 138.72" class="st5"/>
+		</g>
+		<g id="shape7-24" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(236.293,-70.039)">
+			<title>动态连接线.1032</title>
+			<path d="M0 153.53 L-158.82 128.46" class="st5"/>
+		</g>
+		<g id="shape8-29" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(128.146,-113.096)">
+			<title>动态连接线.1033</title>
+			<path d="M0 153.53 L158.82 178.59" class="st7"/>
+		</g>
+		<g id="shape9-35" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(290.366,-87.4944)">
+			<title>动态连接线.1034</title>
+			<path d="M0 153.53 L158.82 128.46" class="st7"/>
+		</g>
+		<g id="shape10-40" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(506.658,-54.9109)">
+			<title>动态连接线.1035</title>
+			<path d="M0 153.53 L-158.79 138.72" class="st9"/>
+		</g>
+		<g id="shape11-46" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(344.439,-70.039)">
+			<title>动态连接线.1036</title>
+			<path d="M0 153.53 L158.82 128.46" class="st9"/>
+		</g>
+		<g id="shape12-51" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(128.146,-30.3688)">
+			<title>动态连接线.1037</title>
+			<path d="M0 146.44 L321 146.44" class="st5"/>
+		</g>
+		<g id="shape13-56" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(452.585,-37.4555)">
+			<title>动态连接线.1038</title>
+			<path d="M0 153.53 L-158.79 138.72" class="st5"/>
+		</g>
+		<g id="shape15-61" v:mID="15" v:groupContext="shape" transform="translate(580.574,-109.37)">
+			<title>矩形</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="141.006" width="19.8425" height="12.5197" class="st11"/>
+		</g>
+		<g id="shape16-63" v:mID="16" v:groupContext="shape" transform="translate(580.574,-53.8583)">
+			<title>矩形.16</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="141.006" width="19.8425" height="12.5197" class="st12"/>
+		</g>
+		<g id="shape17-65" v:mID="17" v:groupContext="shape" transform="translate(580.574,-24.9213)">
+			<title>矩形.17</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="141.006" width="19.8425" height="12.5197" class="st13"/>
+		</g>
+		<g id="shape18-67" v:mID="18" v:groupContext="shape" transform="translate(601.834,-14.1732)">
+			<title>工作表.18</title>
+			<desc>StoryDiffusion: How Designers Co-Create Storyboards With a Ge...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="336.614" cy="96.8327" width="673.23" height="113.386"/>
+			<rect x="0" y="40.1398" width="673.228" height="113.386" class="st14"/>
+			<text x="4" y="54.94" class="st15" v:langID="1033"><v:paragraph/><v:tabList/>StoryDiffusion<tspan class="st16">: How Designers Co</tspan><tspan
+						class="st16">-</tspan><tspan class="st16">Create Storyboards With a Generative</tspan><tspan class="st16">-</tspan><tspan
+						class="st16">AI System</tspan><tspan class="st16" v:langID="2052">, </tspan><tspan class="st17"
+						v:langID="2052">under review<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.4em" class="st16">Evaluation of Physiological and Psychological States of Designers Co</tspan><tspan
+						class="st16">-</tspan><tspan class="st16">Creating Storyboards with a Generative</tspan><tspan class="st16">-</tspan><tspan
+						class="st16">AI System</tspan><tspan class="st16" v:langID="2052">, </tspan><tspan class="st17"
+						v:langID="2052">in progress<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.4em" class="st18">SampleViz</tspan><tspan
+						class="st16">: Concept based Sampling for Policy Refinement in Deep Reinforcement Learning</tspan><tspan
+						class="st16" v:langID="2052">, </tspan><tspan class="st17" v:langID="2052">published<v:newlineChar/><v:newlineChar/></tspan><tspan
+						x="4" dy="2.4em" class="st16">Exploring Visualization Methods for Speech</tspan><tspan class="st16">-</tspan><tspan
+						class="st16">to</tspan><tspan class="st16">-</tspan><tspan class="st16">Text Transcriptions</tspan><tspan
+						class="st16" v:langID="2052">, </tspan><tspan class="st17" v:langID="2052">in progress</tspan></text>		</g>
+		<g id="shape20-95" v:mID="20" v:groupContext="shape" transform="translate(580.574,-82.2047)">
+			<title>矩形.20</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="141.006" width="19.8425" height="12.5197" class="st11"/>
+		</g>
+	</g>
+</svg>
