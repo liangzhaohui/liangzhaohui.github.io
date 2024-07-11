@@ -60,7 +60,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 
 - [Survey of Visualization Methods on Academic Citation Information](https://www.jsjkx.com/EN/Y2022/V49/I4/88),  **Zhaohui Liang**, Min Zhu*, Lin Yao, Xiangkun Wang and Mengqi cao, **Computer Sciences**, 2022, 49(04): 88-99. (in Chinese).
 
-- [A Survey of Visualization Approaches for Comparative Genomics](https://www.sciengine.com/JCADC/doi/10.3724/SP.J.1089.2022.19435;JSESSIONID=5b43d5a7-2692-45c3-b699-afeb911f894f), Lin Yao, Min Zhu*, Wang Xiangkun, Zhang Mingyang, Wang Xinyi and  **Zhaohui Liang**, **Journal of Computer-Aided Design & Computer Graphics**, 2022, 34(6): 852-868. (in Chinese).
+<!-- - [A Survey of Visualization Approaches for Comparative Genomics](https://www.sciengine.com/JCADC/doi/10.3724/SP.J.1089.2022.19435;JSESSIONID=5b43d5a7-2692-45c3-b699-afeb911f894f), Lin Yao, Min Zhu*, Wang Xiangkun, Zhang Mingyang, Wang Xinyi and  **Zhaohui Liang**, **Journal of Computer-Aided Design & Computer Graphics**, 2022, 34(6): 852-868. (in Chinese). -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 💻 Internships
