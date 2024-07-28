@@ -30,7 +30,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 
 # 📝 Publications and Projects
 
-- Investigating Gaze Patterns in Using Dictation Interfaces to Reduce Reading Cost，**Zhaohui Liang** et al., **In progress**.
+- Investigating Gaze Patterns in Using Dictation Interfaces to Reduce Reading Cost，**Zhaohui Liang**, et al., **in progress**.
   
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/StoryDiffusion.jpg' alt="sym" width="100%"></div></div>
