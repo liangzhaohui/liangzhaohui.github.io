@@ -28,7 +28,7 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 📝 Publications 
+# 📝 Publications and Projects
 
 <!-- - [StoryDiffusion: How Designers Co-Create Storyboards With a Generative-AI System](https://arxiv.org/abs/2407.07672)，  **Zhaohui Liang**†, Xiaoyu Zhang†, Kevin Ma, Zhao Liu, Xipei Ren, Kosa Goucher-Lambert, Can Liu*, **under review**. -->
 
