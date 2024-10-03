@@ -30,8 +30,30 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 
 # 📝 Publications and Projects
 
-- Investigating Gaze Patterns in Using Dictation Interfaces to Reduce Reading Cost，**Zhaohui Liang**, et al. **in progress**.
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gaze.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Investigating Gaze Patterns in Using Dictation Interfaces to Reduce Reading Cost, 
+
+**Zhaohui Liang**†, Yonglin Chen†, Naser Al Madi, Can Liu*, 
+
+**under review**.
+
+</div>
+</div>
   
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Exploring Emotional Responses of Different Users to Narrative and Divergent AI-Generated Content in Human-AI Co-Creation: Evidence from fNIRS, 
+
+Nanyi Wang†, **Zhaohui Liang**†, et al. 
+
+**under review**.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/StoryDiffusion.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
