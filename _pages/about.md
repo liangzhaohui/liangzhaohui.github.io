@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhaohui Liang, a student interested in Human-Computer Interaction and Visualization. I am currently a second-year master's student in Computer Science at the University of Chinese Academy of Sciences. <!-- I graduated with honors from Sichuan University in 2022. -->
+I am Zhaohui Liang, a student interested in Human-Computer Interaction and Visualization. I am currently a last-year master's student in Computer Science at the University of Chinese Academy of Sciences. <!-- I graduated with honors from Sichuan University in 2022. -->
 
-My research interests are centered around Human-Computer Interaction (HCI) and Visualization, with a particular focus on the development and evaluation of interaction methodologies for cross-modal human-AI interaction.
+My research interests are centered around Human-Computer Interaction (HCI) and Visualization, with a particular focus on [understanding people Quantitatively], [dictation interfaces] and [visual storytelling].
 
 <img src='images/research.jpg' alt="Research Image" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
 
