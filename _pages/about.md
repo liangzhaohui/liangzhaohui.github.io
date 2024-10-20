@@ -36,7 +36,9 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 Desirable Unfamiliarity: Insights from Eye Movements on Engagement and Readability of Dictation Interfaces, 
 
 **Zhaohui Liang**†, Yonglin Chen†, Naser Al Madi, Can Liu*, 
+
 City University of Hong kong, Colby College
+
 **under review**.
 
 <div class="badge">Quantitative methods</div> <div class="badge">CUI</div> <div class="badge">Gaze</div>
@@ -52,6 +54,7 @@ Exploring Emotional Responses of Different Users to Narrative and Divergent AI-G
 Nanyi Wang†, **Zhaohui Liang**†, et al. 
 
 University of Chinese Academy of Sciences
+
 **under review**.
 
 </div>
@@ -63,7 +66,9 @@ University of Chinese Academy of Sciences
 [StoryDiffusion: How Designers Co-Create Storyboards With a Generative-AI System](https://arxiv.org/abs/2407.07672), 
 
 **Zhaohui Liang**†, Xiaoyu Zhang†, Kevin Ma, Zhao Liu, Xipei Ren, Kosa Goucher-Lambert, Can Liu*, 
+
 UC Berkley, City University of Hong kong
+
 **under review**.
 
 </div>
