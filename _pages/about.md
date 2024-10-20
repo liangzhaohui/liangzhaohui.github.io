@@ -41,7 +41,7 @@ City University of Hong kong, Colby College
 
 **under review**.
 
-<div class="badge">Quantitative methods</div> <div class="badge">CUI</div> <div class="badge">Gaze</div>
+[Quantitative methods], [Dictation interface], [Eye tracking]
 </div>
 </div>
   
@@ -79,7 +79,7 @@ UC Berkley, City University of Hong kong
 
 [SampleViz: Concept based Sampling for Policy Refinement in Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10541631), 
 
-**Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan, 
+**Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang, Guihua Shan, 
 
 University of Chinese Academy of Sciences
 
