@@ -33,12 +33,13 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gaze.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Investigating Gaze Patterns in Using Dictation Interfaces to Reduce Reading Cost, 
+Desirable Unfamiliarity: Insights from Eye Movements on Engagement and Readability of Dictation Interfaces, 
 
 **Zhaohui Liang**†, Yonglin Chen†, Naser Al Madi, Can Liu*, 
 
 **under review**.
 
+<div class="badge">IEEE PacificVis 2024</div>
 </div>
 </div>
   
