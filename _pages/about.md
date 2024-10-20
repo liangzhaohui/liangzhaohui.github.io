@@ -80,7 +80,9 @@ UC Berkley, City University of Hong kong
 [SampleViz: Concept based Sampling for Policy Refinement in Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10541631), 
 
 **Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan, 
+
 University of Chinese Academy of Sciences
+
 2024 IEEE 17th Pacific Visualization Conference (PacificVis), Tokyo, Japan, 2024, pp. 359-368.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
