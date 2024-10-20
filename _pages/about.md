@@ -57,6 +57,7 @@ University of Chinese Academy of Sciences
 
 **under review**.
 
+[Quantitative methods], [Visual storytelling], [EEG]
 </div>
 </div>
 
@@ -71,6 +72,7 @@ UC Berkley, City University of Hong kong
 
 **under review**.
 
+[Quantitative methods], [Visual storytelling], [EEG]
 </div>
 </div>
 
@@ -85,12 +87,13 @@ University of Chinese Academy of Sciences
 
 2024 IEEE 17th Pacific Visualization Conference (PacificVis), Tokyo, Japan, 2024, pp. 359-368.
 
+[XAI], [Visualization]
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Survey of Visualization Methods on Academic Citation Information](https://www.jsjkx.com/EN/Y2022/V49/I4/88),  **Zhaohui Liang**, Min Zhu*, Lin Yao, Xiangkun Wang and Mengqi cao, **Computer Sciences**, 2022, 49(04): 88-99. (in Chinese).
+<!-- - [Survey of Visualization Methods on Academic Citation Information](https://www.jsjkx.com/EN/Y2022/V49/I4/88),  **Zhaohui Liang**, Min Zhu*, Lin Yao, Xiangkun Wang and Mengqi cao, **Computer Sciences**, 2022, 49(04): 88-99. (in Chinese). -->
 
 <!-- - [A Survey of Visualization Approaches for Comparative Genomics](https://www.sciengine.com/JCADC/doi/10.3724/SP.J.1089.2022.19435;JSESSIONID=5b43d5a7-2692-45c3-b699-afeb911f894f), Lin Yao, Min Zhu*, Wang Xiangkun, Zhang Mingyang, Wang Xinyi and  **Zhaohui Liang**, **Journal of Computer-Aided Design & Computer Graphics**, 2022, 34(6): 852-868. (in Chinese). -->
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
