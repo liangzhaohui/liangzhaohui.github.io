@@ -39,7 +39,7 @@ Desirable Unfamiliarity: Insights from Eye Movements on Engagement and Readabili
 
 **under review**.
 
-<div class="badge">IEEE PacificVis 2024</div>
+<div class="tag">Quantitative methods</div><div class="tag">CUI</div><div class="tag">Gaze</div>
 </div>
 </div>
   
