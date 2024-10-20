@@ -72,7 +72,7 @@ UC Berkley, City University of Hong kong
 
 **under review**.
 
-[Quantitative methods], [Visual storytelling], [EEG]
+[Visual storytelling], [Human-centered AI]
 </div>
 </div>
 
