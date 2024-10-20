@@ -36,10 +36,10 @@ My research interests are centered around Human-Computer Interaction (HCI) and V
 Desirable Unfamiliarity: Insights from Eye Movements on Engagement and Readability of Dictation Interfaces, 
 
 **Zhaohui Liang**†, Yonglin Chen†, Naser Al Madi, Can Liu*, 
-
+City University of Hong kong, Colby College
 **under review**.
 
-<div class="tag">Quantitative methods</div><div class="tag">CUI</div><div class="tag">Gaze</div>
+<div class="badge">Quantitative methods</div> <div class="badge">CUI</div> <div class="badge">Gaze</div>
 </div>
 </div>
   
@@ -51,6 +51,7 @@ Exploring Emotional Responses of Different Users to Narrative and Divergent AI-G
 
 Nanyi Wang†, **Zhaohui Liang**†, et al. 
 
+University of Chinese Academy of Sciences
 **under review**.
 
 </div>
@@ -62,7 +63,7 @@ Nanyi Wang†, **Zhaohui Liang**†, et al.
 [StoryDiffusion: How Designers Co-Create Storyboards With a Generative-AI System](https://arxiv.org/abs/2407.07672), 
 
 **Zhaohui Liang**†, Xiaoyu Zhang†, Kevin Ma, Zhao Liu, Xipei Ren, Kosa Goucher-Lambert, Can Liu*, 
-
+UC Berkley, City University of Hong kong
 **under review**.
 
 </div>
@@ -74,7 +75,7 @@ Nanyi Wang†, **Zhaohui Liang**†, et al.
 [SampleViz: Concept based Sampling for Policy Refinement in Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10541631), 
 
 **Zhaohui Liang**, Guan Li, Ruiqi Gu, Yang Wang*, Guihua Shan, 
-
+University of Chinese Academy of Sciences
 2024 IEEE 17th Pacific Visualization Conference (PacificVis), Tokyo, Japan, 2024, pp. 359-368.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
