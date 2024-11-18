@@ -39,7 +39,7 @@ Desirable Unfamiliarity: Insights from Eye Movements on Engagement and Readabili
 
 City University of Hong kong, Colby College
 
-**under review**.
+**under review for CHI2025**, in second round (RR).
 
 [Quantitative methods], [Dictation interface], [Eye tracking]
 </div>
