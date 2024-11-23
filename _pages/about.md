@@ -55,7 +55,7 @@ Nanyi Wang†, **Zhaohui Liang**†, et al.
 
 University of Chinese Academy of Sciences
 
-**under review**.
+**under review for Computers in Human Behavior**.
 
 [Quantitative methods], [Visual storytelling], [EEG]
 </div>
